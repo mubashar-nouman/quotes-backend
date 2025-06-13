@@ -1,4 +1,4 @@
-import Quote from '../models/Quotes.model.js';
+import Quote from '../models/quotes.model.js';
 
 /**
  * @desc    Add new quote
